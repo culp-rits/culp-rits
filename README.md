@@ -12,3 +12,10 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
   </a>
 </p>
 
+<br>
+
+<div align="center">
+
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=culp-rits&theme=horizon&hide_border=true&border_radius=15&mode=weekly&background=0D1117)](https://git.io/streak-stats)
+
+</div>
