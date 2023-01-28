@@ -2,6 +2,7 @@
 
 I'm Ritheesh! If there is one thing I can do all day and still not get bored of, It is Coding. I like solving problems and building stuff. Very much interested in Full Stack Development and Competitive programming. I find these interesting as I don't just stop with the solution but work flat out to find the best possible solution. Always up for learning a new language!
 
+<br>
 
 ## Skills & Stats
 <br>
@@ -28,6 +29,8 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 </div>
 
+<br>
+
 ## Contact Me
 <br>
 <p align = 'center'>
@@ -38,4 +41,3 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
     <img src = 'https://user-images.githubusercontent.com/73932121/156936120-7d41b2a8-1d04-4fb4-b2db-de468965799f.svg' alt = "View My LinkedIn">
   </a>
 </p>
-<br>
