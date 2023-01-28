@@ -27,3 +27,13 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culp-rits&layout=compact&theme=darcula&hide_border=true&bg-color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## Contact Me
+<p align = 'center'>
+  <a href = 'mailto:ritheesh.kumar2002@gmail.com' target="_blank"> 
+    <img src = 'https://user-images.githubusercontent.com/73932121/156936080-302b8401-fced-44ec-a759-aa17e3476991.svg' alt = "Mail Me">
+  </a>
+  <a href = 'https://www.linkedin.com/in/ritheesh-kumar/' target="_blank"> 
+    <img src = 'https://user-images.githubusercontent.com/73932121/156936120-7d41b2a8-1d04-4fb4-b2db-de468965799f.svg' alt = "View My LinkedIn">
+  </a>
+</p>
