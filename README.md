@@ -9,7 +9,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <p align="center">
   <a href="https://github.com/culp-rits?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongodb,cpp,python,vscode,git,bootstrap" alt="skill badges icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,angular,mongodb,cpp,java,python,vscode,bootstrap" alt="skill badges icons" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culp-rits&layout=compact&langs_count=10&theme=darcula&hide_border=true&bg-color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culp-rits&layout=compact&langs_count=10&bg_color=161b22&hide_border=true&text_color=eeeeee&title_color=eeeeee&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
