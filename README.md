@@ -9,7 +9,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <p align="center">
   <a href="https://github.com/culp-rits?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,angular,mongodb,php,cpp,java,python,vscode,bootstrap" alt="skill badges icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,angular,mongodb,php,cpp,java,python,vscode,git,bootstrap" alt="skill badges icons" />
   </a>
 </p>
 
