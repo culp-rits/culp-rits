@@ -31,10 +31,6 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <br>
 
-##Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ## Contact Me
 <br>
 <p align = 'center'>
