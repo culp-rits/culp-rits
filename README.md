@@ -25,9 +25,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culp-rits&layout=compact&langs_count=6&bg_color=0d1117&hide_border=true&text_color=eeeeee)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culp-rits&layout=compact&langs_count=6&bg_color=0d1117&hide_border=true&text_color=eeeeee&title_color=eeeeee)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=culp-rits&layout=compact&bg_color=0d1117&hide_border=true&text_color=eeeeee&title_color=eeeeee)
 
 </div>
 
