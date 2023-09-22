@@ -4,7 +4,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <br>
 
-## Skills & Stats
+<h1>Skills & Stats</h1>
 <br>
 
 <p align="center">
