@@ -4,7 +4,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <br>
 
-<h2>Skills & Stats</h1>
+<h2 color='white'>Skills & Stats</h1>
 <br>
 
 <p align="center">
@@ -31,7 +31,7 @@ I'm Ritheesh! If there is one thing I can do all day and still not get bored of,
 
 <br>
 
-<h2>Contact Me</h2>
+<h2 color='white'>Contact Me</h2>
 <br>
 <p align = 'center'>
   <a href = 'mailto:ritheesh.kumar2002@gmail.com' target="_blank"> 
