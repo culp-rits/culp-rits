@@ -1,9 +1,11 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=35&pause=0&color=FFFFFF&background=4D4D4D00&center=false&vCenter=true&repeat=false&width=435&lines=%40CulpRits+here!)](https://github.com/culp-rits)
 
 I'm Ritheesh! If there is one thing I can do all day and still not get bored of, It is Coding. I like solving problems and building stuff. Very much interested in Full Stack Development and Competitive programming. I find these interesting as I don't just stop with the solution but work flat out to find the best possible solution. Always up for learning a new language!
+
 <br>
 
 ## Skills & Stats
+
 <br>
 
 <p align="center">
